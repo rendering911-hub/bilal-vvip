@@ -87,7 +87,7 @@ async function logout() {
 }
 
 const COLOR_THEME_OPTIONS = [
-    { id: "default", label: "BILAL WEB BOT", swatch: "#080d0b" },
+    { id: "default", label: "BILAL WEB BOT", swatch: "#e4bd67" },
     { id: "midnight", label: "Midnight", swatch: "#0a0d14" },
     { id: "graphite", label: "Graphite", swatch: "#17191d" },
     { id: "frost", label: "Frost", swatch: "#dfe7ef" },
