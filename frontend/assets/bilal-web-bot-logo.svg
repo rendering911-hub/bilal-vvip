@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none" role="img" aria-labelledby="title">
+  <title id="title">BILAL WEB BOT logo</title>
+  <defs>
+    <linearGradient id="gold" x1="84" y1="61" x2="420" y2="455" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF0B4"/><stop offset=".45" stop-color="#E9BB58"/><stop offset="1" stop-color="#A96C22"/></linearGradient>
+    <radialGradient id="night" cx="0" cy="0" r="1" gradientTransform="matrix(0 350 -350 0 256 240)" gradientUnits="userSpaceOnUse"><stop stop-color="#24201A"/><stop offset="1" stop-color="#08090D"/></radialGradient>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientTransform="matrix(0 230 -230 0 256 245)" gradientUnits="userSpaceOnUse"><stop stop-color="#E9BB58" stop-opacity=".2"/><stop offset="1" stop-color="#E9BB58" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#night)"/><rect width="512" height="512" rx="128" fill="url(#halo)"/>
+  <rect x="2" y="2" width="508" height="508" rx="126" stroke="url(#gold)" stroke-opacity=".42" stroke-width="3"/>
+  <circle cx="256" cy="256" r="184" stroke="url(#gold)" stroke-opacity=".16" stroke-width="2"/>
+  <path d="M143 199h226l-19 211H162l-19-211Z" fill="#101116" stroke="url(#gold)" stroke-width="9" stroke-linejoin="round"/>
+  <path d="m175 197 25-66 57 47 55-47 25 66" fill="#191714" stroke="url(#gold)" stroke-width="11" stroke-linejoin="round"/>
+  <path d="m178 187 20 13 2-28 25 17 3-38 27 31 27-31 3 38 25-17 2 28 20-13" stroke="url(#gold)" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M183 234h146M194 356h124" stroke="url(#gold)" stroke-opacity=".56" stroke-width="4" stroke-linecap="round"/>
+  <text x="256" y="319" fill="url(#gold)" font-family="Arial,sans-serif" font-size="82" font-weight="800" letter-spacing="-8" text-anchor="middle">BW</text>
+  <text x="256" y="391" fill="#FFF0B4" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="7" text-anchor="middle">BOT</text>
+  <circle cx="130" cy="158" r="5" fill="#FFF0B4"/><circle cx="382" cy="158" r="5" fill="#E9BB58"/><circle cx="132" cy="367" r="4" fill="#E9BB58"/><circle cx="380" cy="367" r="4" fill="#FFF0B4"/>
+</svg>
